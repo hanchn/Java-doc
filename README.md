@@ -6,8 +6,7 @@
   - [Java介绍](./02.md)
   - [环境安装](./03.md)
   - [Java开发中关于IDE的选择](./34.md)
-  - [JEE、JSE、JME、](./05.md)
-  - [JDK、JVM、JRE](./35.md)
+  - [JDK、JVM、JRE、JEE、JSE、JME、](./05.md)
   - [Java版本选择](./31.md)
  
 - 写一个demo  
