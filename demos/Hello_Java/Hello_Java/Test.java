@@ -1,5 +1,6 @@
 package Hello_Java;
 
 public class Test {
-  public static String name = "Hello, World111!";
+  private static String str = "Hello World !";
+
 }
